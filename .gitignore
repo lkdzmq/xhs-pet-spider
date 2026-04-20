@@ -1,0 +1,25 @@
+# Cookie & Credentials
+cookies.json
+*.cookie
+
+# Runtime data
+gallery/
+screenshots/
+chrome_data/
+debug_html/
+*.db
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
